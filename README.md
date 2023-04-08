@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ini1Mirk
 - 👀 I’m interested in Front-End & Back-End
 - 🌱 I’m currently learning: HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ini1Mirk/ini1Mirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
